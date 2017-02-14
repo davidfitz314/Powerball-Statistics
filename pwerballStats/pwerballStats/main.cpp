@@ -210,15 +210,15 @@ int main(){
 					outfile << it2->first << " => " << it2->second << endl;
 				}
 			}
+			outfile << endl;
 		}
-		outfile << endl;
 	}
 
 	outfile << "Ordered by Most Popular to Least" << endl;
 	outfile << endl;
 	mostPopularNumbers();
 	for (int i = 0; i < MostPopularOrder.size(); i++){
-		outfile << MostPopularOrder[i] << endl;
+		outfile << MostPopularOrder[i] << ", ";
 	}
 	pballs.close();
 	
