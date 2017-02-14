@@ -1,0 +1,1087 @@
+Each Number chosen By Powerball since Oct 7th, 2015 and it's frequency rate.
+All probabilities have been given laplace smoothing
+Chosen Number => Amount of times chosen
+
+01 => 7
+total percentage 0.00904393
+
+02 => 11
+total percentage 0.0142119
+
+03 => 16
+total percentage 0.0206718
+
+04 => 8
+total percentage 0.0103359
+
+05 => 10
+total percentage 0.0129199
+
+06 => 8
+total percentage 0.0103359
+
+07 => 10
+total percentage 0.0129199
+
+08 => 7
+total percentage 0.00904393
+
+09 => 11
+total percentage 0.0142119
+
+10 => 12
+total percentage 0.0155039
+
+11 => 13
+total percentage 0.0167959
+
+12 => 16
+total percentage 0.0206718
+
+13 => 9
+total percentage 0.0116279
+
+14 => 9
+total percentage 0.0116279
+
+15 => 8
+total percentage 0.0103359
+
+16 => 18
+total percentage 0.0232558
+
+17 => 11
+total percentage 0.0142119
+
+18 => 10
+total percentage 0.0129199
+
+19 => 10
+total percentage 0.0129199
+
+20 => 14
+total percentage 0.0180879
+
+21 => 9
+total percentage 0.0116279
+
+22 => 9
+total percentage 0.0116279
+
+23 => 19
+total percentage 0.0245478
+
+24 => 8
+total percentage 0.0103359
+
+25 => 15
+total percentage 0.0193798
+
+26 => 6
+total percentage 0.00775194
+
+27 => 14
+total percentage 0.0180879
+
+28 => 16
+total percentage 0.0206718
+
+29 => 12
+total percentage 0.0155039
+
+30 => 13
+total percentage 0.0167959
+
+31 => 11
+total percentage 0.0142119
+
+32 => 18
+total percentage 0.0232558
+
+33 => 13
+total percentage 0.0167959
+
+34 => 10
+total percentage 0.0129199
+
+35 => 5
+total percentage 0.00645995
+
+36 => 7
+total percentage 0.00904393
+
+37 => 11
+total percentage 0.0142119
+
+38 => 8
+total percentage 0.0103359
+
+39 => 9
+total percentage 0.0116279
+
+40 => 16
+total percentage 0.0206718
+
+41 => 13
+total percentage 0.0167959
+
+42 => 10
+total percentage 0.0129199
+
+43 => 10
+total percentage 0.0129199
+
+44 => 12
+total percentage 0.0155039
+
+45 => 4
+total percentage 0.00516796
+
+46 => 5
+total percentage 0.00645995
+
+47 => 12
+total percentage 0.0155039
+
+48 => 8
+total percentage 0.0103359
+
+49 => 10
+total percentage 0.0129199
+
+50 => 12
+total percentage 0.0155039
+
+51 => 6
+total percentage 0.00775194
+
+52 => 18
+total percentage 0.0232558
+
+53 => 9
+total percentage 0.0116279
+
+54 => 11
+total percentage 0.0142119
+
+55 => 9
+total percentage 0.0116279
+
+56 => 10
+total percentage 0.0129199
+
+57 => 12
+total percentage 0.0155039
+
+58 => 7
+total percentage 0.00904393
+
+59 => 10
+total percentage 0.0129199
+
+60 => 11
+total percentage 0.0142119
+
+61 => 14
+total percentage 0.0180879
+
+62 => 14
+total percentage 0.0180879
+
+63 => 12
+total percentage 0.0155039
+
+64 => 23
+total percentage 0.0297158
+
+65 => 9
+total percentage 0.0116279
+
+66 => 13
+total percentage 0.0167959
+
+67 => 14
+total percentage 0.0180879
+
+68 => 12
+total percentage 0.0155039
+
+69 => 17
+total percentage 0.0219638
+
+p01 => 6
+total percentage 0.230769
+
+p02 => 7
+total percentage 0.269231
+
+p03 => 8
+total percentage 0.307692
+
+p04 => 4
+total percentage 0.153846
+
+p05 => 8
+total percentage 0.307692
+
+p06 => 8
+total percentage 0.307692
+
+p07 => 5
+total percentage 0.192308
+
+p08 => 5
+total percentage 0.192308
+
+p09 => 8
+total percentage 0.307692
+
+p10 => 10
+total percentage 0.384615
+
+p11 => 5
+total percentage 0.192308
+
+p12 => 8
+total percentage 0.307692
+
+p13 => 5
+total percentage 0.192308
+
+p14 => 4
+total percentage 0.153846
+
+p15 => 6
+total percentage 0.230769
+
+p16 => 4
+total percentage 0.153846
+
+p17 => 8
+total percentage 0.307692
+
+p18 => 5
+total percentage 0.192308
+
+p19 => 5
+total percentage 0.192308
+
+p20 => 7
+total percentage 0.269231
+
+p21 => 8
+total percentage 0.307692
+
+p22 => 8
+total percentage 0.307692
+
+p23 => 6
+total percentage 0.230769
+
+p24 => 7
+total percentage 0.269231
+
+p25 => 9
+total percentage 0.346154
+
+p26 => 3
+total percentage 0.115385
+
+Each Number and the followers
+Due to laplace smoothing only followers with a count greater then 1 were included
+
+print main num: 01
+Number Following => amount of times followed
+16 => 2
+28 => 2
+55 => 2
+69 => 2
+
+print main num: 02
+Number Following => amount of times followed
+16 => 2
+17 => 2
+23 => 2
+30 => 2
+31 => 2
+33 => 2
+62 => 2
+63 => 2
+66 => 2
+
+print main num: 03
+Number Following => amount of times followed
+21 => 2
+25 => 2
+34 => 3
+45 => 2
+54 => 2
+56 => 2
+64 => 2
+67 => 3
+
+print main num: 04
+Number Following => amount of times followed
+19 => 2
+24 => 2
+32 => 2
+36 => 2
+49 => 2
+
+print main num: 05
+Number Following => amount of times followed
+07 => 2
+08 => 2
+12 => 2
+26 => 2
+29 => 2
+35 => 2
+39 => 2
+
+print main num: 06
+Number Following => amount of times followed
+05 => 2
+34 => 2
+38 => 2
+58 => 2
+60 => 2
+
+print main num: 07
+Number Following => amount of times followed
+15 => 2
+16 => 2
+23 => 3
+29 => 2
+40 => 2
+61 => 2
+67 => 2
+
+print main num: 08
+Number Following => amount of times followed
+10 => 2
+27 => 3
+48 => 2
+
+print main num: 09
+Number Following => amount of times followed
+05 => 2
+32 => 2
+42 => 2
+47 => 2
+58 => 2
+60 => 2
+61 => 2
+62 => 2
+65 => 2
+67 => 2
+
+print main num: 10
+Number Following => amount of times followed
+31 => 2
+47 => 2
+55 => 2
+56 => 3
+64 => 2
+
+print main num: 11
+Number Following => amount of times followed
+09 => 3
+16 => 2
+50 => 3
+53 => 2
+60 => 2
+
+print main num: 12
+Number Following => amount of times followed
+02 => 2
+11 => 2
+13 => 2
+24 => 2
+25 => 3
+31 => 2
+43 => 2
+44 => 3
+49 => 2
+61 => 2
+64 => 2
+
+print main num: 13
+Number Following => amount of times followed
+04 => 2
+06 => 2
+10 => 2
+12 => 2
+37 => 2
+43 => 2
+47 => 2
+
+print main num: 14
+Number Following => amount of times followed
+18 => 3
+23 => 3
+42 => 2
+45 => 2
+66 => 2
+
+print main num: 15
+Number Following => amount of times followed
+06 => 2
+07 => 2
+29 => 2
+31 => 2
+36 => 2
+49 => 2
+
+print main num: 16
+Number Following => amount of times followed
+03 => 3
+05 => 2
+13 => 3
+15 => 2
+19 => 2
+25 => 2
+28 => 2
+37 => 2
+40 => 2
+42 => 2
+43 => 2
+46 => 2
+63 => 2
+69 => 2
+
+print main num: 17
+Number Following => amount of times followed
+09 => 2
+16 => 3
+20 => 2
+23 => 2
+37 => 2
+46 => 2
+62 => 2
+
+print main num: 18
+Number Following => amount of times followed
+19 => 3
+27 => 2
+30 => 2
+54 => 2
+62 => 2
+66 => 2
+
+print main num: 19
+Number Following => amount of times followed
+09 => 2
+14 => 2
+57 => 2
+64 => 2
+
+print main num: 20
+Number Following => amount of times followed
+08 => 2
+15 => 2
+16 => 2
+21 => 2
+25 => 2
+31 => 2
+42 => 2
+65 => 2
+
+print main num: 21
+Number Following => amount of times followed
+06 => 2
+10 => 2
+12 => 2
+17 => 3
+19 => 2
+51 => 2
+65 => 2
+
+print main num: 22
+Number Following => amount of times followed
+11 => 2
+14 => 2
+15 => 2
+29 => 2
+40 => 2
+
+print main num: 23
+Number Following => amount of times followed
+11 => 2
+28 => 2
+30 => 2
+41 => 2
+42 => 2
+44 => 2
+54 => 3
+55 => 2
+63 => 2
+64 => 3
+67 => 4
+68 => 2
+
+print main num: 24
+Number Following => amount of times followed
+03 => 2
+31 => 2
+59 => 2
+61 => 3
+63 => 2
+
+print main num: 25
+Number Following => amount of times followed
+01 => 2
+11 => 2
+14 => 2
+23 => 2
+35 => 2
+39 => 2
+51 => 2
+52 => 2
+60 => 2
+66 => 2
+67 => 2
+68 => 3
+
+print main num: 26
+Number Following => amount of times followed
+04 => 2
+33 => 2
+60 => 2
+
+print main num: 27
+Number Following => amount of times followed
+07 => 2
+08 => 2
+11 => 2
+13 => 2
+26 => 2
+34 => 2
+41 => 2
+52 => 2
+59 => 2
+65 => 2
+68 => 2
+
+print main num: 28
+Number Following => amount of times followed
+03 => 2
+10 => 2
+11 => 3
+31 => 2
+40 => 2
+49 => 2
+56 => 2
+61 => 2
+
+print main num: 29
+Number Following => amount of times followed
+03 => 2
+18 => 2
+27 => 2
+37 => 2
+41 => 2
+
+print main num: 30
+Number Following => amount of times followed
+12 => 2
+16 => 2
+19 => 2
+23 => 2
+35 => 2
+42 => 2
+53 => 2
+66 => 2
+68 => 2
+
+print main num: 31
+Number Following => amount of times followed
+22 => 2
+23 => 2
+24 => 2
+28 => 2
+40 => 2
+43 => 2
+50 => 2
+54 => 2
+56 => 2
+64 => 2
+
+print main num: 32
+Number Following => amount of times followed
+03 => 2
+05 => 2
+16 => 3
+21 => 3
+22 => 2
+28 => 2
+30 => 2
+34 => 2
+52 => 3
+55 => 2
+63 => 2
+
+print main num: 33
+Number Following => amount of times followed
+04 => 2
+08 => 2
+22 => 2
+23 => 2
+28 => 2
+47 => 2
+50 => 2
+59 => 2
+64 => 2
+68 => 2
+
+print main num: 34
+Number Following => amount of times followed
+04 => 2
+10 => 2
+12 => 2
+14 => 2
+27 => 2
+33 => 2
+44 => 2
+
+print main num: 35
+Number Following => amount of times followed
+07 => 2
+19 => 2
+38 => 2
+
+print main num: 36
+Number Following => amount of times followed
+03 => 2
+18 => 2
+20 => 2
+32 => 2
+58 => 2
+
+print main num: 37
+Number Following => amount of times followed
+22 => 2
+23 => 2
+26 => 2
+44 => 2
+57 => 2
+63 => 2
+64 => 2
+69 => 2
+
+print main num: 38
+Number Following => amount of times followed
+10 => 2
+33 => 2
+36 => 2
+52 => 3
+55 => 2
+64 => 2
+
+print main num: 39
+Number Following => amount of times followed
+05 => 2
+12 => 2
+18 => 2
+23 => 2
+59 => 3
+64 => 2
+69 => 2
+
+print main num: 40
+Number Following => amount of times followed
+08 => 2
+17 => 4
+29 => 2
+30 => 2
+44 => 2
+48 => 2
+50 => 2
+52 => 2
+53 => 2
+54 => 2
+69 => 3
+
+print main num: 41
+Number Following => amount of times followed
+09 => 2
+11 => 2
+20 => 3
+28 => 2
+29 => 2
+47 => 2
+53 => 2
+61 => 2
+65 => 2
+
+print main num: 42
+Number Following => amount of times followed
+10 => 2
+14 => 2
+15 => 2
+41 => 2
+43 => 2
+48 => 2
+51 => 2
+56 => 2
+68 => 2
+
+print main num: 43
+Number Following => amount of times followed
+03 => 2
+16 => 2
+29 => 2
+52 => 2
+57 => 2
+63 => 2
+64 => 2
+
+print main num: 44
+Number Following => amount of times followed
+05 => 3
+19 => 2
+30 => 2
+38 => 2
+49 => 2
+58 => 2
+59 => 2
+66 => 2
+
+print main num: 45
+Number Following => amount of times followed
+25 => 3
+
+print main num: 46
+Number Following => amount of times followed
+10 => 2
+50 => 2
+62 => 2
+69 => 2
+
+print main num: 47
+Number Following => amount of times followed
+02 => 3
+20 => 2
+32 => 2
+33 => 2
+36 => 2
+50 => 2
+68 => 2
+69 => 2
+
+print main num: 48
+Number Following => amount of times followed
+01 => 2
+18 => 2
+20 => 2
+32 => 2
+41 => 2
+56 => 2
+
+print main num: 49
+Number Following => amount of times followed
+05 => 2
+20 => 2
+33 => 2
+48 => 2
+57 => 2
+60 => 2
+64 => 2
+69 => 2
+
+print main num: 50
+Number Following => amount of times followed
+03 => 2
+12 => 2
+40 => 2
+52 => 3
+53 => 2
+57 => 2
+61 => 2
+69 => 2
+
+print main num: 51
+Number Following => amount of times followed
+18 => 2
+19 => 2
+28 => 2
+64 => 2
+
+print main num: 52
+Number Following => amount of times followed
+03 => 2
+11 => 2
+13 => 2
+17 => 3
+33 => 2
+40 => 3
+42 => 2
+51 => 2
+66 => 2
+
+print main num: 53
+Number Following => amount of times followed
+02 => 2
+07 => 2
+16 => 2
+21 => 2
+44 => 2
+62 => 2
+
+print main num: 54
+Number Following => amount of times followed
+12 => 2
+25 => 2
+33 => 2
+38 => 2
+43 => 2
+61 => 2
+63 => 2
+
+print main num: 55
+Number Following => amount of times followed
+24 => 2
+32 => 2
+33 => 3
+64 => 2
+69 => 2
+
+print main num: 56
+Number Following => amount of times followed
+02 => 2
+07 => 2
+24 => 2
+61 => 2
+62 => 2
+64 => 2
+69 => 2
+
+print main num: 57
+Number Following => amount of times followed
+02 => 2
+15 => 2
+23 => 2
+32 => 2
+34 => 2
+47 => 2
+62 => 3
+
+print main num: 58
+Number Following => amount of times followed
+16 => 2
+27 => 2
+29 => 2
+40 => 2
+66 => 2
+
+print main num: 59
+Number Following => amount of times followed
+07 => 2
+27 => 2
+34 => 2
+35 => 2
+41 => 3
+58 => 2
+69 => 2
+
+print main num: 60
+Number Following => amount of times followed
+04 => 2
+23 => 2
+29 => 2
+64 => 2
+67 => 2
+
+print main num: 61
+Number Following => amount of times followed
+02 => 2
+05 => 2
+13 => 2
+22 => 2
+23 => 2
+28 => 2
+41 => 2
+43 => 2
+52 => 2
+54 => 3
+63 => 2
+
+print main num: 62
+Number Following => amount of times followed
+02 => 2
+11 => 2
+30 => 2
+38 => 2
+40 => 2
+52 => 2
+54 => 2
+55 => 2
+59 => 2
+66 => 2
+69 => 2
+
+print main num: 63
+Number Following => amount of times followed
+04 => 3
+06 => 2
+12 => 2
+38 => 2
+39 => 2
+41 => 3
+53 => 2
+62 => 2
+67 => 2
+
+print main num: 64
+Number Following => amount of times followed
+02 => 2
+03 => 2
+17 => 2
+22 => 2
+24 => 2
+27 => 2
+32 => 2
+43 => 2
+48 => 2
+49 => 2
+50 => 2
+56 => 2
+59 => 2
+60 => 3
+61 => 2
+68 => 2
+69 => 2
+
+print main num: 65
+Number Following => amount of times followed
+13 => 2
+28 => 2
+31 => 2
+40 => 2
+50 => 2
+64 => 2
+
+print main num: 66
+Number Following => amount of times followed
+20 => 2
+25 => 2
+27 => 2
+37 => 3
+44 => 2
+57 => 3
+67 => 2
+68 => 2
+
+print main num: 67
+Number Following => amount of times followed
+01 => 2
+06 => 2
+12 => 2
+16 => 2
+21 => 2
+31 => 2
+39 => 2
+50 => 2
+52 => 2
+57 => 2
+
+print main num: 68
+Number Following => amount of times followed
+03 => 2
+12 => 2
+27 => 2
+28 => 2
+40 => 2
+52 => 2
+59 => 2
+61 => 2
+65 => 2
+
+print main num: 69
+Number Following => amount of times followed
+12 => 2
+20 => 2
+21 => 2
+23 => 2
+27 => 2
+28 => 2
+30 => 2
+32 => 2
+33 => 2
+34 => 2
+41 => 2
+47 => 2
+49 => 2
+58 => 2
+60 => 2
+
+Ordered by Most Popular to Least
+
+64
+23
+16
+32
+52
+69
+03
+12
+28
+40
+25
+20
+27
+61
+62
+67
+11
+30
+33
+41
+66
+10
+29
+44
+47
+50
+57
+63
+68
+02
+09
+17
+31
+37
+54
+60
+05
+07
+18
+19
+34
+42
+43
+49
+56
+59
+13
+14
+21
+22
+39
+53
+55
+65
+04
+06
+15
+24
+38
+48
+01
+08
+36
+58
+26
+51
+35
+46
+45
