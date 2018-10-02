@@ -1,5 +1,5 @@
 # Powerball-Statistics
-Just an calculation of the frequency rates on the popular gambling game PowerBall
+Just a calculation program of the frequency rates on the popular gambling game PowerBall
 
 Written in C++ using microsoft visual studio, this work is property of David Fitzgerald, contributers are welcome to use as long as reference for original content is used.
 
